@@ -1,0 +1,80 @@
+name: mvvm_bloc_flutter_app
+description: A new Flutter application.
+
+
+
+publish_to: 'none'
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+
+  cupertino_icons: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # in house lib
+  mvvm_bloc: ^1.0.4
+  deeper: ^0.0.1
+  bloc_builder: ^1.0.1
+  flutter_live_data: ^1.0.1
+
+
+
+flutter:
+
+
+
+
+  uses-material-design: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
